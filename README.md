@@ -22,8 +22,9 @@ Only copy the entries line (no "_sentinel"), paste it to form_data, you can chan
 
 form_data is a python dictionary holding each question and its value.
 
-Run the script.
+Run the form_submit.py script.
 
+That's it.
 
 
 
